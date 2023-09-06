@@ -1,14 +1,8 @@
 {
-    "build":"1.0.9",
     "packageUrl":"https://hotgame28.k79.info/remote-assets/LoadingScene/",
     "remoteManifestUrl":"https://hotgame28.k79.info/remote-assets/LoadingScene/project.manifest",
     "remoteVersionUrl":"https://hotgame28.k79.info/remote-assets/LoadingScene/version.manifest",
     "version":"1.0.0",
-    "assets": {
-        "LoadingScene0.zip" : {
-           	"md5" : "...",
-	    	"compressed" : true
-       	}
-    },
+    "assets": {},
     "searchPaths":[]
 }
